@@ -1,5 +1,5 @@
 [read_more]
-other = "Read More"
+other = "Läs mer..."
 
 [copyright]
 other = "Copyright"
@@ -8,46 +8,46 @@ other = "Copyright"
 other = "All Rights Reserved"
 
 [share_on]
-other = "Share on"
+other = "Dela med"
 
 [featured_posts]
 other = "Featured Posts"
 
 [recent_posts]
-other = "Recent Posts"
+other = "Senaste inlägg"
 
 [404_title]
 other = "Lost"
 
 [could_not_find]
-other = "We couldn't find the page you're looking for"
+other = "Det gick inte att finna sidan du letar efter"
 
 [go_back]
-other = "Go Back"
+other = "Tillbaka"
 
 [translations]
-other = "Translations"
+other = "Översättning"
 
 [categories]
-other = "Categories"
+other = "Kategorier"
 
 [tags]
 other = "Tags"
 
 [series]
-other = "Series"
+other = "Serier"
 
 [all_categories]
-other = "All Categories"
+other = "Alla kategorier"
 
 [all_tags]
-other = "All Tags"
+other = "Alla Tags"
 
 [all_series]
-other = "All Series"
+other = "Alla Serier"
 
 [overview]
-other = "Overview"
+other = "Översikt"
 
 [reading_time]
-other = "{{ .ReadingTime }} min read"
+other = "{{ .ReadingTime }} min att läsa"
